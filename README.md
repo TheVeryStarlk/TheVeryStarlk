@@ -6,7 +6,7 @@ I started programming around 2020 by picking up Python, then C# which I've falle
 My favorite game is Minecraft as you can probably tell by the fact that most of my repositories are in a way or other related to it.
 But I also enjoy writing desktop apps, some Web APIs, and other projects that I happen to find interesting!
 
-You can find me in the C# Discord. I don't use X that much.
+You can find me in the C# Discord community. I don't use X that much.
 
 Feel free to explore my repositories. My personal favorites are pinned below this text block.
 
