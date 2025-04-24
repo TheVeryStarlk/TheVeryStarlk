@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Bader, also known as Starlk. A university student whose hobby is making computers confused.
+My name's Bader - also known as Starlk, A university student whose hobby is making computers confused.
 
 I started programming around 2020 by picking up Python, then C# which I've fallen in love with.
 
