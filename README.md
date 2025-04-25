@@ -1,13 +1,13 @@
 ### Hi there 👋
-My name's Bader - also known as Starlk, A university student whose hobby is making computers confused.
+My name's Bader - also known as Starlk, a university student whose hobby is confusing computers.
 
 I started programming around 2020 by picking up Python, then C# which I've fallen in love with.
 
-My favorite game is Minecraft as you can probably tell by the fact that most of my repositories are in a way or other related to it.
-But I also enjoy writing desktop apps, some Web APIs, and other projects that I happen to find interesting!
+I enjoy writing desktop apps, Web APIs, and other projects that I happen to find interesting!
+If the sheer number of Minecraft-related repositories didn't give it away already, then, yeah, Minecraft's my favorite.
 
 You can find me in the C# Discord community. I don't use X that much.
 
-Feel free to explore my repositories. My personal favorites are pinned below this text block.
+Feel free to explore my repositories. My personal favorite ones are pinned below this text block.
 
 Thanks for stopping by, wonderful reader!
