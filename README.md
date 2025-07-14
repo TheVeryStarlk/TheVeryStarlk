@@ -1,12 +1,11 @@
-### Hi there 👋
-My name's Bader - also known as Starlk, a university student whose hobby is confusing computers.
+# Hello, world!
 
-I started programming around 2020 by picking up Python, then C# which I've fallen in love with.
+The name's Bader - also known as Starlk, a university student whose hobby is confusing computers.
 
-I enjoy writing desktop apps, Web APIs, and other projects that I happen to find interesting! Oh, I also play Minecraft.
+Started programming around 2020 by picking up Python, then C# which I've fallen in love with.\
+Loves building desktop applications & Web APIs, plus projects that I happen to find interesting! Oh, I also play Minecraft.
 
-You can find me in the C# Discord community. I don't use X that much.
-
-Feel free to explore my repositories. My personal favorite ones are pinned below this text block.
+You can find me in the [C# Discord](https://discord.gg/csharp) community. I don't use X that much.\
+Feel free to explore my repositories, my personal favorite ones are pinned below this text block.
 
 Thanks for stopping by, wonderful reader!
