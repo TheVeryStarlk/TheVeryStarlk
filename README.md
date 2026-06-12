@@ -10,4 +10,4 @@ Feel free to explore my repositories, my personal favorite ones are pinned below
 
 Thanks for stopping by, wonderful reader!
 
-![](https://img.shields.io/badge/OS-Windows-005A9E) ![](https://img.shields.io/badge/Language-C%23-512BD4) ![](https://img.shields.io/badge/Editor-JetBrains%20Rider-AD0042)
+![](https://komarev.com/ghpvc/?username=TheVeryStarlk) ![](https://img.shields.io/badge/OS-Windows-005A9E) ![](https://img.shields.io/badge/Language-C%23-512BD4) ![](https://img.shields.io/badge/Editor-JetBrains%20Rider-AD0042)
